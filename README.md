@@ -1,2 +1,2 @@
 # inter
-Inter font without "<=" and "=>" glyphs
+Inter Regular font without "<=" "<-" "=>" "->" glyphs
